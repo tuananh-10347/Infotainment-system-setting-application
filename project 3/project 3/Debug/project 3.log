@@ -1,0 +1,10 @@
+﻿  Car.cpp
+  Display.cpp
+  General.cpp
+  Menu.cpp
+  project 3.cpp
+  Setting.cpp
+C:\Users\HP\OneDrive\Desktop\Infotainment system setting application\project 3\project 3\Setting.cpp(45,22): warning C4129: '.': unrecognized character escape sequence
+  Sound.cpp
+  Generating Code...
+  project 3.vcxproj -> C:\Users\HP\OneDrive\Desktop\Infotainment system setting application\project 3\Debug\project 3.exe

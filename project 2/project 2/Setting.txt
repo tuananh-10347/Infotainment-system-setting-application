@@ -1,0 +1,2 @@
+Common: fdsf fds,dsfd@fdsf.fds,14785236,1,1 General: Thai,(GMT - 00:00) / Monrovia, Reykjavik;Sound: 0,0,0,0;Display: 1,1,1; 
+Common: fdsfff ds,fdg@fdf.gfd,15326472,2,2 General: Vietnamese,(GMT+07:00) /  Bangkok, Hanoi, Jakarta;Sound: 0,0,0,0;Display: 2,2,2; 
